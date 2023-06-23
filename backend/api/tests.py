@@ -1,9 +1,3 @@
-from http import HTTPStatus
-
-from django.test import Client, TestCase
-
-from api import models
-
 
 class TaskiAPITestCase(TestCase):
     def setUp(self):
