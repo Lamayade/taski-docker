@@ -1,5 +1,5 @@
 import os
-from pathlib import Path
+from pathlib import Path # isort:skip
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
